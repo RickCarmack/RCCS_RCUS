@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RCUS Net v1.1</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="history">History</string>
+    <string name="congregations">Congregations</string>
+    <string name="creeds">Creeds</string>
+    <string name="confessions">Confessions</string>
+    <string name="heidelberg">Heidelberg Catechism</string>
+    <string name="belgic">Belgic Confession</string>
+    <string name="canons">Canons of Dort</string>
+    <string name="westminster">Westminster Confession of Faith</string>
+    <string name="confessions_title">Reformed Confessions</string>
+    <string name="holiness">The Holiness of God - RC Sproul</string>
+    <string name="music">Reformed Music</string>
+    <string name="image_description">RCUS Seal</string>
+    <string name="rcsproul">R. C. Sproul</string>
+    <string name="ursinus">Ursinus Commentary on HC</string>
+    <string name="whyibelieve">Why I believe in God - AW Pink</string>
+    <string name="reformed">Reformed Writings</string>
+    <string name="objections">Answering Objections - Bahnsen</string>
+    <string name="pilgrim">The Pilgrim\'\s Progress - Bunyan</string>
+    <string name="attributes">Attributes of God - AW Pink</string>
+</resources>

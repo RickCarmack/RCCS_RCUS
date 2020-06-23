@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/category_confessions"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_confessions"
+        android:textColor="@color/primary_color"
+        android:textAlignment="center"
+        android:text="@string/reformed"
+        android:gravity="center_horizontal" />
+    <Button
+        android:id="@+id/attributes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/attributes"/>
+    <Button
+        android:id="@+id/believe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/whyibelieve"/>
+    <Button
+        android:id="@+id/objections"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/objections"/>
+    <Button
+        android:id="@+id/pilgrim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/pilgrim"/>
+
+</LinearLayout>

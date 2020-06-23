@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/bottom_line"
+    android:backgroundTint="@color/saddle_brown">
+
+        <TextView
+            android:id="@+id/tvChurch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:paddingLeft="10dp"
+            android:text="Grace Reformed Church"
+            android:textColor="@android:color/white"
+            />
+        <TextView
+            android:id="@+id/tvClassis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="Covenant East"
+            android:textColor="@android:color/white"
+            />
+        <TextView
+            android:id="@+id/tvContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="Steven Carr"
+            android:textColor="@android:color/white"
+            />
+        <TextView
+            android:id="@+id/tvAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="3320 N. Second Street, Rogers, AR 72756"
+            android:textColor="@android:color/white"
+            />
+        <TextView
+            android:id="@+id/tvPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="(479) 372-1108"
+            android:textColor="@android:color/white"
+            />
+        <TextView
+            android:id="@+id/tvWebsite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="Website"
+            android:textColor="@android:color/white"
+            />
+
+
+</LinearLayout>

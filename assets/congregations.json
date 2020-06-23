@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "state": "South Dakota",
+    "name": "First Reformed Church",
+    "classis": "Northern Plains",
+    "contact": "Hank Bowen",
+    "address": "818 9th Avenue SE Aberdeen SD 57401",
+    "phone": "605-225-6120",
+    "website": "http://aberdeenreformed.com"
+  },
+  {
+    "id": 2,
+    "state": "North Dakota",
+    "name": "Salem Reformed Church",
+    "classis": "Northern Plains",
+    "contact": "Dave Irwin",
+    "address": "209 1st Ave. SW Ashley ND 58413",
+    "phone": "701-288-3265"
+  },
+  {
+    "id": 3,
+    "state": "California",
+    "name": "Grace Reformed Church",
+    "classis": "Western",
+    "contact": "Tracy Gruggett",
+    "address": "420 Columbus St Bakersfield CA 93305",
+    "phone": "661-587-3723",
+    "website": "http://www.bakersfieldreformed.org/"
+  },
+  {
+    "id": 4,
+    "state": "Pennsylvania",
+    "name": "Reformation Church",
+    "classis": "Covenant East",
+    "contact": "Ron Potter",
+    "address": "1215 Union Meeting Rd Blue Bell PA 19422",
+    "phone": "570-785-4012",
+    "website": "http://www.refchurchbluebell.com/"
+  }
+]

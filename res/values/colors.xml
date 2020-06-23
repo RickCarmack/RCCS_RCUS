@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="saddle_brown">#8b4513</color>
+    <color name="olive">#808000</color>
+    <color name="category_confessions">#d84315</color>
+    <color name="category_congregations">#2e7d32</color>
+    <color name="classis">#43a047</color>
+    <color name="category_creeds">#c62828</color>
+    <color name="category_history">#1565c0</color>
+    <color name="menu_text">#ffffff</color>
+    <color name="item_color">#0000ff</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
+

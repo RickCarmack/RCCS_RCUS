@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/category_confessions"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_confessions"
+        android:textColor="@color/primary_color"
+        android:textAlignment="center"
+        android:text="@string/confessions_title"/>
+    <Button
+        android:id="@+id/heidelberg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/heidelberg" />
+    <Button
+        android:id="@+id/belgic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/belgic" />
+    <Button
+        android:id="@+id/canons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/canons" />
+    <Button
+        android:id="@+id/westminster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/westminster" />
+    <Button
+        android:id="@+id/ursinus_commentary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_shape"
+        android:textColor="@color/menu_text"
+        android:text="@string/ursinus" />
+
+</LinearLayout>
